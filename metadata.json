@@ -1,0 +1,8 @@
+{
+  "name": "SARPRAS MADTSAMU - Sistem Inventaris MTs Muhammadiyah Metro",
+  "description": "Aplikasi online manajemen sarana dan prasarana MTs Muhammadiyah Metro. Kelola inventaris barang, peminjaman, mutasi, barcode aset, dan laporan Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
